@@ -1,0 +1,44 @@
+body {
+    margin: 20px;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@font-face {
+    /* Death Note's Near Font */
+    font-family: ClerestorySSK;
+    src: url(/clers.ttf);
+}
+
+
+h3 {
+    font-family: Georgia, serif;
+}
+
+.avatar {
+    width: 200px;
+    border: 3px solid blue;
+}
+
+.card {
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: black;
+    color: #f9f29d;
+    border: 6px solid #7d8427;
+    border-radius: 3px;
+}
+
+.Near-Font {
+    font-family: ClerestorySSK;
+}
+
+/*
+- shadows        
+- hover effects  
+- animations     
+*/
+
